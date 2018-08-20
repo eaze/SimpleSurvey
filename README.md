@@ -14,4 +14,6 @@ Data Persistence: <br/>
 
 You will need to persist the data in some way. You DO NOT need to use a database, and the easier for us to run it the better :).  But think about how you would want to do it in production and write up (one paragraph) how you would do it. 
 
-Use whatever framework or libraries you like. Please include a README with instructions on how to run it. Finally, have fun!
+General: <br/>
+
+ Please include a README with instructions on how to run it. Use whatever framework or libraries you like. Finally, have fun!
