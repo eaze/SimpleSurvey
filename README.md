@@ -1,6 +1,6 @@
-# Simple Survey
+# Eaze Services Homework Assignment
  
-Eaze Services Homework Assignment
+## Simple Survey
 ----------------------------------------
 Create a simple anonymous survey. <br/>
 
