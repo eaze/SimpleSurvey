@@ -1,7 +1,4 @@
-# Eaze Services Homework Assignment
- 
-## Simple Survey
-----------------------------------------
+# Eaze Services Homework Assignment - Simple Survey
 Create a simple anonymous survey. <br/>
 
 Build an API in Node.js or .NET Core to allow for the anonymous creation/taking of surveys (i.e. you don't have to create a user account to create a survey).
