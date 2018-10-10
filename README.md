@@ -13,7 +13,7 @@ API Should Support:
 Data Persistence: <br/>
 
 * You will need to persist the data in some way. 
-* You DO NOT need to use a database, and the easier for us to run it the better :).  
+* You DO NOT need to use any external data persistance (database,cache etc), and the easier for us to run it the better :).  
 * But think about how you would want to do it in production and write up (one paragraph) how you would do it. 
 
 General: <br/>
