@@ -10,6 +10,8 @@ API Should Support:
 * Getting Results of a Survey
 * A survey should consist of survey questions and each question should have yes/no (true/false) answers
 
+No frontend is needed and any submitted will not be part of review.
+
 Data Persistence: <br/>
 
 * You will need to persist the data in some way. 
