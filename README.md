@@ -1,3 +1,15 @@
+Steps to run:
+```
+1: npm install
+2: npm run build
+3: npm run server
+```
+* Please note that this project is built for development so we are using webpack rebundling and nodemon on the server - both watching for any changes
+
+
+
+
+
 # Eaze Services Homework Assignment - Simple Survey
 Create a simple anonymous survey. <br/>
 
