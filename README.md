@@ -3,35 +3,9 @@ Steps to run:
 1: npm install
 2: npm run build
 3: npm run server
+4: navigate to http://localhost:3000/
+5: enjoy
 ```
-* Please note that this project is built for development so we are using webpack rebundling and nodemon on the server - both watching for any changes
-
-
-
-
-
-# Eaze Services Homework Assignment - Simple Survey
-Create a simple anonymous survey. <br/>
-
-Build an API in Node.js or .NET Core to allow for the anonymous creation/taking of surveys (i.e. you don't have to create a user account to create a survey).
-
-## Specifications:
-API Should Support:
-* Creating a survey
-* Taking a Survey
-* Getting Results of a Survey
-* A survey should consist of survey questions and each question should have yes/no (true/false) answers
-
-No frontend is needed and any submitted will not be part of review.
-
-Data Persistence: <br/>
-
-* You will need to persist the data in some way. 
-* You DO NOT need to use any external data persistance (database,cache etc), and the easier for us to run it the better :).  
-* But think about how you would want to do it in production and write up (one paragraph) how you would do it. 
-
-General: <br/>
-
-* Please include a README with instructions on how to run it. 
-* Use whatever framework or libraries you like. 
-* Finally, have fun!
+*
+Database: I am currently just writing the survey to a file every time it is updated (creating new survey and when someone takes a survey).  I would and probably should have just set up a simply PostgreSQL DB and a simple schema defined to store all the info.  If this survey ever needed to have user login and is the surverys had questions that werent for everyone to see then an ACID compliant DB wouldve been my go to.
+*
