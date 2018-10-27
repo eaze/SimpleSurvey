@@ -2,7 +2,7 @@ Steps to run:
 ```
 1: npm install
 2: npm run build
-3: npm run server
+3: npm start
 4: navigate to http://localhost:3000/
 5: enjoy
 ```

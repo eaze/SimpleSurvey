@@ -34,7 +34,6 @@ class App extends React.Component {
       currSurvey: surveyNum,
       surveys: surveys
     })
-    console.log(this.state)
   }
 
   viewController(surveyNum) {
